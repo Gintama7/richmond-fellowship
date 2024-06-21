@@ -1,0 +1,21 @@
+.navbar{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1rem 1.5rem 1.5rem;
+}
+
+.nav-options{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #020202;
+    gap:2rem;
+}
+
+.btn-involved{
+    background: #E22313;
+    border: 1px solid #020202;
+    color: #F2F1E5;
+}
