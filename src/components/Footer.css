@@ -1,0 +1,31 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-size: 1rem;
+}
+
+.footer-top{
+    width: 100%;
+    background: black;
+    color: white;
+    display: flex;
+    /* justify-content: space-between; */
+    height: 321px;
+    align-items: center;
+}
+.footer-top a{
+    color: white;
+}
+
+.logo-img{
+    width: 171px;
+    height: 87px;
+}
+
+.footer-bottom{
+    background: #E22313;
+    color:white;
+    text-align: center;
+    padding-top: 0.5rem;
+}
