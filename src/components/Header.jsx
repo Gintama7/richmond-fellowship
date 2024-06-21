@@ -19,7 +19,7 @@ const Header = () => {
         <Nav.Link href="#">Connect</Nav.Link>
         <Nav.Link href="#">Resources</Nav.Link>
         <div>
-          <Button className="button-involved">Get Inovlved</Button>
+          <Button className="btn-involved">Get Inovlved</Button>
         </div>
       </Nav>
     </Navbar>
