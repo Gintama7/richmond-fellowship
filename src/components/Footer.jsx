@@ -1,4 +1,4 @@
-mport React from 'react';
+import React from 'react';
 import Group2 from "/Group2.png";
 import './Footer.css';
 import { Nav } from 'react-bootstrap';
