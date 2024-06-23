@@ -10,7 +10,7 @@ const Footer = () => {
   return (
     <div className='footer'>
       <div className='footer-top'>
-        <div className='col-md-5 justify-md-center'>
+        <div className='footer-image'>
             <img src={Group2} alt="logo2" className='logo-img' />
        </div>
        <div className='d-flex align-items-start col-md-7'>

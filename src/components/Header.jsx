@@ -5,7 +5,7 @@ import "./Header.css";
 
 const Header = () => {
   return (
-    <Navbar className="navbar col-md-12 justify-content-between px-2">
+    <Navbar className="navbar justify-content-between px-2">
       <div>
         <img src={Group} alt="LogoImage" />
       </div>

@@ -6,9 +6,9 @@ import facilities3 from '/facilities3.jpg';
 
 const Facilities = () => {
   return (
-    <div className="facilities-container">
+    <div className="facilities-container ">
       <h4 className=''>FACILITIES</h4>
-      <div className="facilities-top d-flex flex-md-column flex-lg-row gap-4">
+      <div className="facilities-top d-flex flex-wrap justify-content-center flex-lg-row gap-4">
         <div className="halfway-home">
           <img src={facilities1} alt="" />
           <div className="halfway-home-text">
@@ -55,7 +55,7 @@ const Facilities = () => {
           </div>
         </div>
       </div>
-      <div className="facilities-bottom d-flex gap-4">
+      <div className="facilities-bottom d-flex flex-md-wrap justify-content-center gap-4">
     <div className="long-stay">
         <div className='long-stay-top'>
         <p className='fs-4'>

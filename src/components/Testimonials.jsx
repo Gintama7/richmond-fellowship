@@ -6,7 +6,7 @@ const Testimonials = () => {
   return (
     <div className='testimonials-container'>
       <h4>TESTIMONIALS</h4>
-      <div className='d-flex gap-4'>
+      <div className='d-flex align-items-center justify-content-center flex-wrap gap-4'>
             <img src={woman1} alt="woman testimonial" />
             <div className="testimonials-right">
                 <div className="transformation">

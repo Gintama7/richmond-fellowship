@@ -17,6 +17,11 @@
 .footer-top a{
     color: white;
 }
+.footer-image{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
 
 .logo-img{
     width: 171px;
