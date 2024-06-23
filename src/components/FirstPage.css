@@ -1,0 +1,108 @@
+.container{
+   padding: 10px ;
+   color: #020202;
+   display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.text-box{
+ display: flex;
+ flex-direction: column;
+ width: 502px;
+ height: 335px;
+ gap: 16px;
+}
+
+.text-box p{
+    font-size: 48px;
+}
+
+.text-box .talkto{
+    background: #E22313;
+    border: 1px solid #020202;
+    color: #F2F1E5;
+    border-radius: 6px;
+    width: 234px;
+}
+
+.psych{
+    background: #F1DDC0;
+    width: 79px;
+}
+
+.rehab{
+    background: #C5E4ED;
+}
+
+.recover{
+    background: #D9E5CB;
+
+}
+
+.psych, .rehab, .recover{
+    height:21px;
+    padding: 6px;
+    border-radius: 4px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
+
+.image-text{
+    display: flex;
+}
+
+.image-text img{
+    height: 395px;
+    width: 311px;
+    border-radius: 16px;
+}
+
+.image-toptext{
+    width: 211px;
+    height: 300px;
+    border: 1px solid #020202;
+    border-radius: 12px;
+    padding: 24px;
+    position: relative;
+    right:50px;
+    top: 40px;
+     background: var(--Beige-100, #F8F7F0);
+    
+}
+
+.image-text .image-toptext h3{
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+.image-text .image-toptext div{
+    padding: 2px;
+    border-bottom: 0.5px dashed #999999;
+    height:fit-content;
+   
+}
+
+.image-bottom{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 274px;
+    height: 80px;
+    background: var(--Beige-100, #F8F7F0);
+    border: 1px solid #020202;
+    padding:12px 20px;
+    border-radius: 12px;
+    position: relative;
+    top:22rem;
+    right: 20rem;
+}
+
+.image-bottom img{
+    width: 42px;
+    height: 40px;
+}
