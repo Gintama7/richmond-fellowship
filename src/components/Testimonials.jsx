@@ -16,7 +16,7 @@ const Testimonials = () => {
                     We deeply appreciate Team ASHA's role in our daughter's profound change.
                 </p>
                 </div>
-                <div className="d-flex gap-4">
+                <div className="d-flex flex-md-column flex-lg-row align-items-md-center gap-4">
                     <div className='box1'>
                         <p><b>JYOTHI</b> Long Stay Home</p>
                         <svg
