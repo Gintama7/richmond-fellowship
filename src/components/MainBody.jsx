@@ -3,6 +3,7 @@ import FirstPage from './FirstPage'
 import Facilities from './Facilities'
 import SuccessStories from './SuccessStories'
 import Testimonials from './Testimonials'
+import Feedback from './Feedback';
 
 const MainBody = () => {
   return (
@@ -11,6 +12,7 @@ const MainBody = () => {
       <Facilities/>
       <SuccessStories/>
       <Testimonials/>
+      <Feedback/>
     </div>
   )
 }
