@@ -6,7 +6,7 @@ import heart from '/heart.jpg';
 
 const FirstPage = () => {
   return (
-    <div className=" d-flex flex-md-column flex-lg-row justify-content-center align-items-md-center align-items-lg-start gap-4 mt-4">
+    <div className="container d-flex flex-md-column flex-lg-row justify-content-center align-items-md-center align-items-lg-start gap-4 mt-4">
       <div className="text-box">
         <Stack direction="horizontal" gap={2}>
           <span className="psych">Psychology</span>
