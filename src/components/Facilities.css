@@ -1,0 +1,99 @@
+.facilities-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.facilities-top{
+
+}
+
+.halfway-home{
+    background: var(--Beige-200, #F2F1E5);
+    display: flex;
+    align-items: center;
+    width: 770px;
+    height: 248px;
+    border-radius: 12px;
+    padding: 24px;
+    gap: 16px;
+}
+
+.support{
+    background: #809B60;
+    padding: 23px;
+    width: 370px;
+    height: 248px;
+    border-radius: 12px;
+}
+
+.support button{
+    border-radius: 6px;
+    border: 1px solid #020202;
+    background: #F2F1E5;
+}
+
+.facilities-bottom{
+    
+}
+
+.long-stay{
+   width: 330px;
+   height: 340px;
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+}
+
+.long-stay-top{
+    background: var(--Beige-200, #F2F1E5);
+    padding: 24px;
+    gap: 10px;
+    border-radius: 12px;
+}
+
+.talk-to-us{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+    background: #F7A732;
+    height: 71px;
+    border-radius: 12px;
+}
+
+
+.facilities-bottom img{
+   height: 270px;
+}
+
+.day-care{
+    background: var(--Beige-200, #F2F1E5);
+    width: 297px;
+    padding: 24px;
+    border-radius: 12px;
+    height: 270px;
+}
+
+.train-with-us{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.train-with-us img{
+    height: 200px;
+}
+
+.train-btn{
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 20px;
+    background: #6EA5B5;
+    border-radius: 12px;
+    height: 60px;
+}
