@@ -2,6 +2,7 @@ import React from 'react'
 import FirstPage from './FirstPage'
 import Facilities from './Facilities'
 import SuccessStories from './SuccessStories'
+import Testimonials from './Testimonials'
 
 const MainBody = () => {
   return (
@@ -9,6 +10,7 @@ const MainBody = () => {
       <FirstPage/>
       <Facilities/>
       <SuccessStories/>
+      <Testimonials/>
     </div>
   )
 }
