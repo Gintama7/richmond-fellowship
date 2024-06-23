@@ -67,8 +67,9 @@
 }
 
 
-.facilities-bottom img{
+.person-img{
    height: 270px;
+   width: 209px;
 }
 
 .day-care{
@@ -87,6 +88,7 @@
 
 .train-with-us img{
     height: 200px;
+    width: 260px;
 }
 
 .train-btn{
@@ -96,4 +98,5 @@
     background: #6EA5B5;
     border-radius: 12px;
     height: 60px;
+    color: white;
 }

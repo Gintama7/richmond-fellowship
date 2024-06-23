@@ -89,8 +89,8 @@ const Facilities = () => {
     </div>
     
     </div>
-    <div>
-        <img src={facilities2} alt="person looking" height="340px"/>
+    <div className=''>
+        <img src={facilities2} alt="person looking" className='person-img' height="340px"/>
     </div>
     <div className='day-care'>
     <p className='fs-4'><b className='text-info fw-bold'>CHETANA</b> Day Care Centre</p>
